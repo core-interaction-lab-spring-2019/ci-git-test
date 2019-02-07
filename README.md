@@ -9,3 +9,5 @@ Test exercise for cloning a repo.
 - add your change to your branch `git add -A`
 - commit your changes `git commit -m "don't copy this text, write your own commit message"`
 - push your changes to this repo `git push`
+
+a d e l a i
